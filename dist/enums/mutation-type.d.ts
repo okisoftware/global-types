@@ -1,0 +1,11 @@
+export declare enum MutationType {
+    CREATE_CHAT = "CREATE_CHAT",
+    DELETE_CHAT = "DELETE_CHAT",
+    CREATE_GROUP_CHAT = "CREATE_GROUP_CHAT",
+    LEAVE_GROUP_CHAT = "LEAVE_GROUP_CHAT",
+    ADD_MSG = "ADD_MSG",
+    REMOVE_MSG_FOR_ALL = "REMOVE_MSG_FOR_ALL",
+    REMOVE_MSG_FOR_ME = "REMOVE_MSG_FOR_ME",
+    EDIT_MSG = "EDIT_MSG"
+}
+//# sourceMappingURL=mutation-type.d.ts.map
