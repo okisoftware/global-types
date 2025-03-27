@@ -17,3 +17,4 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./message-type"), exports);
 __exportStar(require("./mutation-type"), exports);
 __exportStar(require("./backend-event"), exports);
+__exportStar(require("./frontend-event"), exports);
