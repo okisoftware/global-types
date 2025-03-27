@@ -1,4 +1,4 @@
 export enum FrontendEvent {
-   SyncConfirmation='SC',
-   SyncDown='SyncDown'
+   SyncConfirmation='SyncConfirmation',
+   SyncMessages='SyncMessages'
 }
