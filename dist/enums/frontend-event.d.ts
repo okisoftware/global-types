@@ -1,5 +1,5 @@
 export declare enum FrontendEvent {
-    SyncConfirmation = "SC",
-    SyncDown = "SyncDown"
+    SyncConfirmation = "SyncConfirmation",
+    SyncMessages = "SyncMessages"
 }
 //# sourceMappingURL=frontend-event.d.ts.map
