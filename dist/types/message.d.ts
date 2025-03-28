@@ -7,7 +7,7 @@ export type Message = {
     payload: string;
     participants?: Array<User>;
     type: MessageType;
-    ts: number;
+    timestamp: number;
     feAttr?: {
         unReadCount: number;
     };
