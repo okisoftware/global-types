@@ -10,6 +10,7 @@ export type Message = {
     timestamp: number;
     feAttr?: {
         unReadCount: number;
+        lastMsg: string;
     };
 };
 //# sourceMappingURL=message.d.ts.map

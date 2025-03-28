@@ -11,5 +11,6 @@ export type Message = {
    timestamp: number;
    feAttr?: {
       unReadCount: number
+      lastMsg: string
    };
 };
