@@ -9,5 +9,6 @@ export type Chat = {
    lastTS: number;
    feAttr?: {
       unReadCount: number
+      lastMsg: string
    };
 };
