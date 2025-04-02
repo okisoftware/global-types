@@ -8,9 +8,6 @@ export type Message = {
     participants?: Array<User>;
     type: MessageType;
     timestamp: number;
-    feAttr?: {
-        unReadCount: number;
-        lastMsg: string;
-    };
+    feAttr?: {};
 };
 //# sourceMappingURL=message.d.ts.map

@@ -8,6 +8,7 @@ export type Chat = {
     lastTS: number;
     feAttr?: {
         unReadCount: number;
+        lastMsg: string;
     };
 };
 //# sourceMappingURL=chat.d.ts.map

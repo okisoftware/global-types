@@ -5,5 +5,6 @@ export type ChatSync = {
     _id: string;
     mutationType: MutationType;
     record: Message | Chat;
+    toUser?: string;
 };
 //# sourceMappingURL=chat-sync.d.ts.map
