@@ -6,4 +6,5 @@ var MessageType;
     MessageType["MSG"] = "MSG";
     MessageType["SYS"] = "SYS";
     MessageType["HTML"] = "HTML";
+    MessageType["SYS_USER_LEFT_CHAT_GROUP"] = "SULCG";
 })(MessageType || (exports.MessageType = MessageType = {}));
